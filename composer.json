@@ -1,0 +1,27 @@
+{
+    "name": "digitalstate/platform-organization-bundle",
+    "type": "symfony-bundle",
+    "description": "DigitalState Organization Bundle",
+    "homepage": "https://github.com/DigitalState/Platform-Organization-Bundle.git",
+    "keywords": ["Oro"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DigitalState, Inc",
+            "homepage": "http://www.digitalstate.ca"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-0": { "Ds\\Bundle\\OrganizationBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.x-dev"
+        }
+    }
+}
