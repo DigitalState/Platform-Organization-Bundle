@@ -2,6 +2,10 @@
 
 The Organization bundle extends the OroOrganizationBundle and provides the developers additional core organization functionality. 
 
+[![Code Climate](https://codeclimate.com/github/DigitalState/Platform-Organization-Bundle/badges/gpa.svg)](https://codeclimate.com/github/DigitalState/Platform-Organization-Bundle)
+[![Test Coverage](https://codeclimate.com/github/DigitalState/Platform-Organization-Bundle/badges/coverage.svg)](https://codeclimate.com/github/DigitalState/Platform-Organization-Bundle/coverage)
+
+
 ## Table of Contents
 
 - [Migration Extensions](#migration-extensions)
